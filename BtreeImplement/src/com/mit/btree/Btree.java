@@ -14,7 +14,7 @@ package com.mit.btree;
  * 7) Print Method.
  * @see Node
  * */
-public class Btree {//
+public class Btree {
     /**
      * Create a public root node
      */
