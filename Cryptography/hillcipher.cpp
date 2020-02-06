@@ -9,7 +9,7 @@ void getKeyMatrix(string key, int keyMatrix[][3])
         for (int j = 0; j < 3; j++)
         {
             keyMatrix[i][j] = (key[k]) % 65;
-            k++;
+            k++;//
         }
     }
 } 
