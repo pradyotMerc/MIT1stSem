@@ -91,6 +91,8 @@ X
  p=17	 q=11 n=187 phi=160 d=23 e=7
 
 
+
+
 **** encoding message*** 
 **** encoded message *** 
 
